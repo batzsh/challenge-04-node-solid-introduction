@@ -1,5 +1,5 @@
 <h1 align="center">
-      💠 Challenge 03 - Node.js SOLID Introduction
+      💠 Challenge 04 - Node.js SOLID Introduction
 </h1>
 
 <h3 align="center">
